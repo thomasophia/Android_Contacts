@@ -17,5 +17,6 @@ Contacts holds your contacts in a list and allows you to edit them.
 
 ## How the app looks like
 
-https://user-images.githubusercontent.com/112976198/214251018-45bd19e8-0525-4376-9ac6-fa088c6f38e3.mov
+> <img src="https://user-images.githubusercontent.com/112976198/214251018-45bd19e8-0525-4376-9ac6-fa088c6f38e3.mov" width="300"/>
+
 
