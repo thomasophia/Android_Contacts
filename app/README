@@ -1,0 +1,20 @@
+this app contains:
+
+--implemented during LV--
+
+Base
+    <View Models, Repository, Navigation>
++
+# Block 1: LiveData and Lifecycle Components
+# Block 2: SQL with Google Room
+
+
+--implemented after LV--
+
+# Block 3: API Access and Serialization with Ktor
+    (contacts are loaded when refreshed)
+# Block 4: Dependency Injection with Koin
+    (registered DetailViewModel as well, but still using workaround with navArgs)
+# Block 5: Dependency Injection with Koin (Google Room, Ktor)
+# Block 6: Concurrency with Coroutines
+    (implemented in API Access block - "load" suspend function
