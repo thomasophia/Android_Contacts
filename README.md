@@ -1,5 +1,5 @@
 # Contacts
-Contacts is an exercise project that was created as part of the Android Advanced course at the FH Technikum Vienna.
+Contacts is a practice project that was created as part of the Android Advanced course at the FH Technikum Vienna.
 Contacts holds your contacts in a list and allows you to edit them.
 
 
